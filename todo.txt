@@ -1,0 +1,3 @@
+2. Create git
+3. i react-router-dom (16:00) and create public/private routes
+

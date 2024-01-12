@@ -1,0 +1,5 @@
+Vite
+FSD
+RTK Query
+Tailwind
+ReactRouter
