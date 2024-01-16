@@ -1,3 +1,7 @@
-2. Create git
-3. i react-router-dom (16:00) and create public/private routes
+1. Доделать формы
+2. Сделать css к ниму
 
+
+
+...
+n. Сделать тесты
